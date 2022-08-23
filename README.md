@@ -1,6 +1,12 @@
 # Black Ops 2 Gun Sound Pack
 This mod changes the sound of payday guns to sounds from Black Ops 2, more info can be found on my mod workshop page (https://modworkshop.net/mod/38491)!
 
+Instructions!
+- Put in mod_overrides
+- There will be 2 folders "bo2 sound pack" and "bo2 sound pack complete" 
+- If you want to choose what ones you want choose the guns from the "bo2 sound pack" folder
+- If you want all just drag and drop complete folder in mod_overrides
+
 Guns -
 - HAMR (Brenner)
 - LSAT (KSP 58)
@@ -36,8 +42,4 @@ Guns -
 - SVU (Grom)
 - XPR (Kang Arms)
 
-Instructions!
-- Put in mod_overrides
-- There will be 2 folders "bo2 sound pack" and "bo2 sound pack complete" 
-- If you want to choose what ones you want choose the guns from the "bo2 sound pack" folder
-- If you want all just drag and drop complete folder in mod_overrides
+
