@@ -1,5 +1,5 @@
 # Black Ops 2 Gun Sound Pack
-This mod changes the sound of payday guns to sounds from Black Ops 2, more info can be found on my mod workshop page!
+This mod changes the sound of payday guns to sounds from Black Ops 2, more info can be found on my mod workshop page (https://modworkshop.net/mod/38491)!
 
 Guns -
 - HAMR (Brenner)
