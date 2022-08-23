@@ -1,2 +1,2 @@
-# Payday-2-Mods
-Please read about each mod on how to install and what they are!
+# COD Difficulty Names
+Read my mod workshop page for more info (https://modworkshop.net/mod/38454)!
