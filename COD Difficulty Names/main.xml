@@ -1,0 +1,5 @@
+<table name="COD Difficulty Names" author="UnatMar" priority="5" color ="Color(1,1,1)">
+<Hooks>
+                <hook file="difficulty.lua" source_file="lib/managers/localizationmanager"/>
+    </Hooks>
+</table>
