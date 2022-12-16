@@ -11,6 +11,8 @@ Changes the difficulty names to ones used in various COD games
 - Death Sentence - #YOLO (Yes that is a real difficulty in Infinite Warfare)
 - One Down Modifier - Realism
 
+[Download](https://UnatMar.github.io/COD-Difficulty-Names/COD%20Difficulty%20Names)
+
 Read my mod workshop page for more info (https://modworkshop.net/mod/38454)!
 
 Instructions
